@@ -13,6 +13,7 @@
     <module>code/beans</module>
     <module>jobs/process/test_0.1</module>
     <module>jobs/process/dbtest01_lctoec_re_0.1</module>
+    <module>jobs/process/copy_of_dbtest01_lctoec_re_0.1</module>
   </modules>
   <properties>
     <talend.project.name>PILOTPROJECT</talend.project.name>
