@@ -15,8 +15,8 @@
     <module>jobs/process/dbtest01_lctoec_re_0.1</module>
     <module>jobs/process/copy_of_dbtest01_lctoec_re_0.1</module>
     <module>jobs/process/copy_of_copy_of_dbtest01_lctoec_re_0.1</module>
-    <module>jobs/process/Utility/sample_tdcprofiling_0.1</module>
     <module>jobs/joblets/commoncloudlog_0.1</module>
+    <module>jobs/process/Utility/sample_tdcprofileextractor_0.1</module>
   </modules>
   <properties>
     <talend.project.name>PILOTPROJECT</talend.project.name>
